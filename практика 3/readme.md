@@ -49,7 +49,7 @@ main --Game
 @enduml
 ```
 
-![Alt text](скриншоты/5.png)
+![Alt text](https://github.com/6SHYNOBY6/TMP/blob/main/практика%203/скриншоты/5.png)
 # Шаблонный метод
 ```
 @startuml
@@ -102,4 +102,4 @@ RussianFlag -  Austria
 @enduml
 
 ```
-![Alt text](скриншоты/6.png)
+![Alt text](https://github.com/6SHYNOBY6/TMP/blob/main/практика%203/скриншоты/6.png)
