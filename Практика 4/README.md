@@ -75,7 +75,7 @@ Iterator.Concrete_Aggregate ..> Iterator.Aggregate
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_4/iterator/iterator.jpg)
+![](https://github.com/6SHYNOBY6/TMP/blob/main/Практика%204/iterator/iterator.jpg)
 
 # Посетитель
 
@@ -183,4 +183,4 @@ Visitor.Studying_In_Institute <|.. Visitor.Student
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_4/visitor/visitor.jpg)
+![](https://github.com/6SHYNOBY6/TMP/blob/main/Практика%204/visitor/visitor.jpg)
