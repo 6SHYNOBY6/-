@@ -25,7 +25,7 @@ rectangle Библиотека {
 }
 @enduml
 ```
-![Image alt](https://github.com/vikulek/tmp/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%201/var.jpg)
+![Image alt](https://github.com/6SHYNOBY6/TMP/blob/main/Практическая%201/var.jpg)
 
 Диаграмма классов:
 ```plantuml
@@ -64,7 +64,7 @@ class Библиотекарь {
 }
 @enduml
 ```
-![Image alt](https://github.com/vikulek/tmp/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%201/class.jpg)
+![Image alt](https://github.com/6SHYNOBY6/TMP/blob/main/Практическая%201/class.jpg)
 
 Диаграмма последовательности:
 ```plantuml
@@ -100,5 +100,5 @@ activate Библиотека
 deactivate Библиотека
 @enduml
 ```
-![Image alt](https://github.com/vikulek/tmp/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%201/posl.jpg)
+![Image alt](https://github.com/6SHYNOBY6/TMP/blob/main/Практическая%201/posl.jpg)
 
