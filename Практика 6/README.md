@@ -64,7 +64,7 @@ YourName.serzh <|.. YourName.your_name
 @enduml
 ```
 
-![инверсия контроля](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/Inversion_Of_Control.png)
+![инверсия контроля](https://github.com/6SHYNOBY6/TMP/blob/main/Практика%206/screens/Inversion_Of_Control.png)
 
 
 # Заместитель (Proxy)
@@ -103,7 +103,7 @@ print(SUBJECT.request())
 ```
 
 ## Диаграмма
-![Proxy](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/proxy.png)
+![Proxy](https://github.com/6SHYNOBY6/TMP/blob/main/Практика%206/screens/proxy.png)
 
 # Компоновщик (Composite)
 
@@ -174,4 +174,4 @@ COMPOSITE_2.method()
 
 ## Диаграмма
 
-![Composite](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/composite.png)
+![Composite](https://github.com/6SHYNOBY6/TMP/blob/main/Практика%206/screens/composite.png)
